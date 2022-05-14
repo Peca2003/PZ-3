@@ -1,10 +1,12 @@
 .menu2 ul{list-style-type: none; width: 200px}
-.menu2 li{margin-bottom: 5px;}
+.menu2 li{
+	margin-bottom: 5px;
+}
 .menu2 a:link, .menu2 a:visited{
 	text-decoration: none;
 	color: white;
 	font: 13px Arial;
-    background-color: rgb(55, 55, 255);
+    background-color: rgb(5, 129, 230);
 	border: 1px solid blue;
 	display: block;
 	padding: 0px 5px;
