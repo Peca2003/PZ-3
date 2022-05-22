@@ -1,0 +1,29 @@
+ul{list-style-type: none;
+    padding-left: 10px;
+}
+li{margin-right: 15px; float: left;}
+li.gr{
+    color: gray;
+}
+ul.ot{
+    padding-left: 175px;
+}
+ul.rr{
+    padding-left: 5px;
+}
+li.ts{margin-right: 7px;
+}
+a.cb{
+    color: gray;
+}
+a.vc{color: gray;}
+a{
+    color: black;
+    text-decoration: none;
+    padding: 0px 5px;
+    line-height: 30px;
+    display: block;
+}
+a:hover{
+    color: red;
+}
